@@ -2,14 +2,11 @@ i#include<stdio.h>
 
 int main(void)
 {
-printf("abc ");
-printf("abc ");
-printf("abc ");
-printf("abc ");
-printf("abc ");
-printf("abc ");
-printf("abc ");
-printf("abc ");
-printf("abc ");
+printf("123 ");
+printf("123 ");
+printf("123 ");
+printf("123 ");
+printf("123 ");
+printf("123 ");
 
 }
