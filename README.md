@@ -35,12 +35,18 @@
 2. 数学
    1. 微分数学
    2. 数学分析
-## 插入代码块
+
+## 插入代码块 c cpp java bash python
 ```cpp
          #include<iostream>
 	 using namespace std;
 	 int main(){
             cout<<"hhh"<<endl;
 	 }
+```
+## 插入超链接
+
+[bilibili](https://www.bilibili.com "点击进入b站")
+
 
 
