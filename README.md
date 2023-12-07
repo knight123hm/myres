@@ -35,4 +35,12 @@
 2. 数学
    1. 微分数学
    2. 数学分析
+## 插入代码块
+   cpp
+         #include<iostream>
+	 using namespace std;
+	 int main(){
+            cout<<"hhh"<<endl;
+	 }
+
 
